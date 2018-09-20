@@ -1,0 +1,114 @@
+{
+    "children": [{
+        "children": [
+            {
+                "children": [
+                    {
+                        "name": "id",
+                        "value": "uuSystemOneLoginUnit"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "systemOne"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "recordType"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "loginUnit"
+                            }
+                        ],
+                        "name": "type"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "user"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "141414"
+                            }
+                        ],
+                        "name": "createdBy"
+                    },
+                    {
+                        "name": "tsCreated",
+                        "value": "2018-05-08 13:28:46.592"
+                    },
+                    {
+                        "repeatId": "0",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-05-08 13:28:46.592"
+                            }
+                        ],
+                        "name": "updated"
+                    }
+                ],
+                "name": "recordInfo"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "loginWebRedirect"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "uuSystemOnewr"
+                            }
+                        ],
+                        "name": "login"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "coraText"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "uuSystemOneLoginUnitText"
+                            }
+                        ],
+                        "name": "loginDescription"
+                    }
+                ],
+                "name": "loginInfo"
+            }
+        ],
+        "name": "loginUnit"
+    }],
+    "name": "recordList"
+}

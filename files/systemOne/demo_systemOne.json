@@ -1,0 +1,124 @@
+{
+    "children": [{
+        "children": [
+            {
+                "children": [
+                    {
+                        "name": "id",
+                        "value": "someDemo"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "recordType"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "demo"
+                            }
+                        ],
+                        "name": "type"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "user"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "141414"
+                            }
+                        ],
+                        "name": "createdBy"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "systemOne"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
+                        "name": "tsCreated",
+                        "value": "2018-08-29 14:16:32.122"
+                    },
+                    {
+                        "repeatId": "0",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-08-29 14:16:32.122"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "1",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-08-29 14:16:54.097"
+                            }
+                        ],
+                        "name": "updated"
+                    }
+                ],
+                "name": "recordInfo"
+            },
+            {
+                "name": "bookTitle",
+                "value": "dfg"
+            },
+            {
+                "repeatId": "0",
+                "children": [
+                    {
+                        "name": "linkedRecordType",
+                        "value": "image"
+                    },
+                    {
+                        "name": "linkedRecordId",
+                        "value": "image:2521896589899900"
+                    }
+                ],
+                "name": "bookCover"
+            }
+        ],
+        "name": "book"
+    }],
+    "name": "recordList"
+}

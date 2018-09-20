@@ -1,0 +1,161 @@
+{
+    "children": [
+        {
+            "repeatId": "76",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "systemOneUserNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "user"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "systemOne"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "98",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoSystemOneGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "systemOne"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "102",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "systemOneUserRoleRelationGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "userRole"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "systemOne"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "169",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "systemOneUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "131313"
+                },
+                {
+                    "name": "value",
+                    "value": "fitnesseAdmin@system.cora.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "systemOne"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "170",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "systemOneUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "121212"
+                },
+                {
+                    "name": "value",
+                    "value": "fitnesseUser@system.cora.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "systemOne"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "171",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "systemOneUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "141414"
+                },
+                {
+                    "name": "value",
+                    "value": "jsClientUser@system.cora.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "systemOne"
+                }
+            ],
+            "name": "storageTerm"
+        }
+    ],
+    "name": "collectedData"
+}
