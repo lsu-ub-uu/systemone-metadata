@@ -12417,6 +12417,66 @@
                                                 "children": [
                                                     {
                                                         "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "nameInData",
+                                                                "value": "updated"
+                                                            },
+                                                            {
+                                                                "name": "repeatId",
+                                                                "value": "1"
+                                                            },
+                                                            {
+                                                                "children": [{
+                                                                    "name": "nameInData",
+                                                                    "value": "updatedBy"
+                                                                }],
+                                                                "name": "linkedPath"
+                                                            }
+                                                        ],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "user"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "131313"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
                                                         "value": "userRole"
                                                     },
                                                     {
@@ -12445,6 +12505,70 @@
                                             {
                                                 "name": "linkedRecordId",
                                                 "value": "everything"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "131313"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "userRole"
+                                                    },
+                                                    {
+                                                        "name": "repeatId",
+                                                        "value": "1"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "nameInData",
+                                                                "value": "permissionTermRulePart"
+                                                            },
+                                                            {
+                                                                "name": "repeatId",
+                                                                "value": "0"
+                                                            },
+                                                            {
+                                                                "children": [{
+                                                                    "name": "nameInData",
+                                                                    "value": "rule"
+                                                                }],
+                                                                "name": "linkedPath"
+                                                            }
+                                                        ],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "collectPermissionTerm"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "systemPermissionTerm"
                                             }
                                         ],
                                         "name": "to"
@@ -12728,6 +12852,66 @@
                                                 "children": [
                                                     {
                                                         "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "nameInData",
+                                                                "value": "updated"
+                                                            },
+                                                            {
+                                                                "name": "repeatId",
+                                                                "value": "1"
+                                                            },
+                                                            {
+                                                                "children": [{
+                                                                    "name": "nameInData",
+                                                                    "value": "updatedBy"
+                                                                }],
+                                                                "name": "linkedPath"
+                                                            }
+                                                        ],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "user"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "121212"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
                                                         "value": "userRole"
                                                     },
                                                     {
@@ -12756,6 +12940,70 @@
                                             {
                                                 "name": "linkedRecordId",
                                                 "value": "fitnesseTextAdmin"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "121212"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "userRole"
+                                                    },
+                                                    {
+                                                        "name": "repeatId",
+                                                        "value": "7175775086411621"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "nameInData",
+                                                                "value": "permissionTermRulePart"
+                                                            },
+                                                            {
+                                                                "name": "repeatId",
+                                                                "value": "0"
+                                                            },
+                                                            {
+                                                                "children": [{
+                                                                    "name": "nameInData",
+                                                                    "value": "rule"
+                                                                }],
+                                                                "name": "linkedPath"
+                                                            }
+                                                        ],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "collectPermissionTerm"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "systemPermissionTerm"
                                             }
                                         ],
                                         "name": "to"

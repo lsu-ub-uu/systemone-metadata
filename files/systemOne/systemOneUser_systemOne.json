@@ -73,6 +73,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-27 09:46:09.781"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -91,19 +114,45 @@
                 },
                 {
                     "repeatId": "1",
-                    "children": [{
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "permissionRole"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "everything"
-                            }
-                        ],
-                        "name": "userRole"
-                    }],
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "permissionRole"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "everything"
+                                }
+                            ],
+                            "name": "userRole"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
+                        }
+                    ],
                     "name": "userRole"
                 },
                 {
@@ -209,6 +258,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-27 09:46:35.579"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -227,19 +299,45 @@
                 },
                 {
                     "repeatId": "7175775086411621",
-                    "children": [{
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "permissionRole"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "fitnesseTextAdmin"
-                            }
-                        ],
-                        "name": "userRole"
-                    }],
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "permissionRole"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "fitnesseTextAdmin"
+                                }
+                            ],
+                            "name": "userRole"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
+                        }
+                    ],
                     "name": "userRole"
                 },
                 {
