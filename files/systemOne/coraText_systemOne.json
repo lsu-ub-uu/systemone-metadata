@@ -6,1525 +6,6 @@
                     "children": [
                         {
                             "name": "id",
-                            "value": "bookRelatedPersonAuthorLinkDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:16:44.801"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:16:44.801"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookRelatedPersonAuthorLinkDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookRelatedPersonAuthorLinkDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "recordInfoSystemNewGroupText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:28:48.961"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:28:48.961"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:recordInfoSystemNewGroupText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:recordInfoSystemNewGroupText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "illustratorItemDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "131313"
-                                },
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2017-10-01 00:00:00.0"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "131313"
-                                        },
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2017-11-01 17:37:36.0"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text för:illustratorItemDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:illustratorItemDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "dataDividerSystemOneLinkText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:16:26.489"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:16:26.489"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:dataDividerSystemOneLinkText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:dataDividerSystemOneLinkText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "recordInfoSystemNewGroupDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:28:50.294"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:28:50.294"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:recordInfoSystemNewGroupDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:recordInfoSystemNewGroupDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "bookRelatedPersonTypeCollectionVarDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:46:51.662"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:46:51.662"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookRelatedPersonTypeCollectionVarDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookRelatedPersonTypeCollectionVarDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "authorItemDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "131313"
-                                },
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2017-10-01 00:00:00.0"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "131313"
-                                        },
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2017-11-01 17:37:36.0"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text för:authorItemDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:authorItemDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "demoGroupText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "user"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "141414"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-08-29 14:05:30.854"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "141414"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-08-29 14:05:30.854"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text för:demoGroupText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:demoGroupText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "bookRelatedPersonTypeItemCollectionDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "131313"
-                                },
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2017-10-01 00:00:00.0"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "131313"
-                                        },
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2017-11-01 17:37:36.0"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Anger vilken typ av relation personen har till boken"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "bookCoverText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:15:56.851"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:15:56.851"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookCoverText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookCoverText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "systemOneUserGroupDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "141414"
-                                },
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2017-10-01 00:00:00.0"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "141414"
-                                        },
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2017-11-01 17:37:36.0"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Metadatagrupp för systemOne-användare"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Metadata group for system one user"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "illustratorItemText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "131313"
-                                },
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2017-10-01 00:00:00.0"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "131313"
-                                        },
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2017-11-01 17:37:36.0"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text för:illustratorItemText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:illustratorItemText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "bookRelatedPersonTypeCollectionVarText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:46:50.307"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:46:50.307"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookRelatedPersonTypeCollectionVarText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookRelatedPersonTypeCollectionVarText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "dataDividerSystemOneLinkDefText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:16:27.710"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:16:27.710"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:dataDividerSystemOneLinkDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:dataDividerSystemOneLinkDefText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "bookAuthorText"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraText"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "systemOne"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "systemOneUser"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "12345"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-02-21 07:16:53.397"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "systemOneUser"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "12345"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-02-21 07:16:53.397"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookAuthorText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "default",
-                        "lang": "sv"
-                    }
-                },
-                {
-                    "children": [{
-                        "name": "text",
-                        "value": "Text for:bookAuthorText"
-                    }],
-                    "name": "textPart",
-                    "attributes": {
-                        "type": "alternative",
-                        "lang": "en"
-                    }
-                }
-            ],
-            "name": "text"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
                             "value": "bookCoverDefText"
                         },
                         {
@@ -1831,6 +312,414 @@
                     "children": [
                         {
                             "name": "id",
+                            "value": "bookRelatedPersonAuthorLinkDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:16:44.801"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:16:44.801"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookRelatedPersonAuthorLinkDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookRelatedPersonAuthorLinkDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "systemOneUserGroupDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
+                                },
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2017-10-01 00:00:00.0"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        },
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2017-11-01 17:37:36.0"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Metadatagrupp för systemOne-användare"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Metadata group for system one user"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "illustratorItemText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "131313"
+                                },
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2017-10-01 00:00:00.0"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "131313"
+                                        },
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2017-11-01 17:37:36.0"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text för:illustratorItemText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:illustratorItemText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "recordInfoSystemNewGroupText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:28:48.961"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:28:48.961"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:recordInfoSystemNewGroupText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:recordInfoSystemNewGroupText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
                             "value": "bookRelatedPersonIllustratorLinkText"
                         },
                         {
@@ -1917,6 +806,108 @@
                     "children": [{
                         "name": "text",
                         "value": "Text for:bookRelatedPersonIllustratorLinkText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "bookRelatedPersonTypeCollectionVarText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:46:50.307"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:46:50.307"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookRelatedPersonTypeCollectionVarText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookRelatedPersonTypeCollectionVarText"
                     }],
                     "name": "textPart",
                     "attributes": {
@@ -2341,6 +1332,210 @@
                     "children": [
                         {
                             "name": "id",
+                            "value": "illustratorItemDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "131313"
+                                },
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2017-10-01 00:00:00.0"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "131313"
+                                        },
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2017-11-01 17:37:36.0"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text för:illustratorItemDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:illustratorItemDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "dataDividerSystemOneLinkText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:16:26.489"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:16:26.489"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:dataDividerSystemOneLinkText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:dataDividerSystemOneLinkText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
                             "value": "systemOneUserNewGroupText"
                         },
                         {
@@ -2443,6 +1638,709 @@
                     "children": [
                         {
                             "name": "id",
+                            "value": "recordInfoSystemNewGroupDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:28:50.294"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:28:50.294"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:recordInfoSystemNewGroupDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:recordInfoSystemNewGroupDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "bookRelatedPersonTypeCollectionVarDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:46:51.662"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:46:51.662"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookRelatedPersonTypeCollectionVarDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookRelatedPersonTypeCollectionVarDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "dataDividerSystemOneLinkDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:16:27.710"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:16:27.710"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:dataDividerSystemOneLinkDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:dataDividerSystemOneLinkDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "authorItemDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "131313"
+                                },
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2017-10-01 00:00:00.0"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "131313"
+                                        },
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2017-11-01 17:37:36.0"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text för:authorItemDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:authorItemDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "demoGroupText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-08-29 14:05:30.854"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-08-29 14:05:30.854"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text för:demoGroupText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:demoGroupText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "bookAuthorText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:16:53.397"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:16:53.397"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookAuthorText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookAuthorText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "bookRelatedPersonTypeItemCollectionDefText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "131313"
+                                },
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2017-10-01 00:00:00.0"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "131313"
+                                        },
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2017-11-01 17:37:36.0"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Anger vilken typ av relation personen har till boken"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
                             "value": "bookAuthorDefText"
                         },
                         {
@@ -2529,6 +2427,108 @@
                     "children": [{
                         "name": "text",
                         "value": "Text for:bookAuthorDefText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "alternative",
+                        "lang": "en"
+                    }
+                }
+            ],
+            "name": "text"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "bookCoverText"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraText"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemOne"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "12345"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-02-21 07:15:56.851"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-02-21 07:15:56.851"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookCoverText"
+                    }],
+                    "name": "textPart",
+                    "attributes": {
+                        "type": "default",
+                        "lang": "sv"
+                    }
+                },
+                {
+                    "children": [{
+                        "name": "text",
+                        "value": "Text for:bookCoverText"
                     }],
                     "name": "textPart",
                     "attributes": {
