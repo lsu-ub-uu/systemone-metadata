@@ -1130,59 +1130,6 @@
                 },
                 {
                     "children": [{
-                        "children": [{
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "personGroupDefText"
-                                        },
-                                        {
-                                            "children": [
-                                                {
-                                                    "name": "nameInData",
-                                                    "value": "recordInfo"
-                                                },
-                                                {
-                                                    "children": [{
-                                                        "name": "nameInData",
-                                                        "value": "dataDivider"
-                                                    }],
-                                                    "name": "linkedPath"
-                                                }
-                                            ],
-                                            "name": "linkedPath"
-                                        }
-                                    ],
-                                    "name": "from"
-                                },
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "system"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "systemOne"
-                                        }
-                                    ],
-                                    "name": "to"
-                                }
-                            ],
-                            "name": "recordToRecordLink"
-                        }],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "personGroupDefText"
-                },
-                {
-                    "children": [{
                         "children": [
                             {
                                 "children": [
@@ -1389,59 +1336,6 @@
                         "name": "collectedDataLinks"
                     }],
                     "name": "bookRelatedPersonAuthorLinkDefText"
-                },
-                {
-                    "children": [{
-                        "children": [{
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "personGroupText"
-                                        },
-                                        {
-                                            "children": [
-                                                {
-                                                    "name": "nameInData",
-                                                    "value": "recordInfo"
-                                                },
-                                                {
-                                                    "children": [{
-                                                        "name": "nameInData",
-                                                        "value": "dataDivider"
-                                                    }],
-                                                    "name": "linkedPath"
-                                                }
-                                            ],
-                                            "name": "linkedPath"
-                                        }
-                                    ],
-                                    "name": "from"
-                                },
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "system"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "systemOne"
-                                        }
-                                    ],
-                                    "name": "to"
-                                }
-                            ],
-                            "name": "recordToRecordLink"
-                        }],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "personGroupText"
                 },
                 {
                     "children": [{
@@ -8803,197 +8697,6 @@
                         "name": "collectedDataLinks"
                     }],
                     "name": "recordInfoSystemOneNewGroup"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOne"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "textId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroupText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "defTextId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroupDefText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "childReferences"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "childReference"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "ref"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "recordInfoSystemOneGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "personGroup"
                 },
                 {
                     "children": [{
@@ -19909,1442 +19612,753 @@
             "name": "textSystemOne"
         },
         {
-            "children": [
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
+            "children": [{
+                "children": [{
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "metadataId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "metadataGroup"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserGroup"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "parentId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "user"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [
+                                                {
                                                     "name": "nameInData",
-                                                    "value": "metadataId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "parentId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "user"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
+                                                    "value": "recordInfo"
+                                                },
+                                                {
+                                                    "children": [{
                                                         "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
+                                                        "value": "type"
+                                                    }],
+                                                    "name": "linkedPath"
+                                                }
+                                            ],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "recordType"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "name": "nameInData",
+                                                    "value": "recordInfo"
+                                                },
+                                                {
+                                                    "children": [{
+                                                        "name": "nameInData",
+                                                        "value": "createdBy"
+                                                    }],
+                                                    "name": "linkedPath"
+                                                }
+                                            ],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "name": "nameInData",
+                                                    "value": "recordInfo"
+                                                },
+                                                {
+                                                    "children": [{
+                                                        "name": "nameInData",
+                                                        "value": "dataDivider"
+                                                    }],
+                                                    "name": "linkedPath"
+                                                }
+                                            ],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "system"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOne"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "name": "nameInData",
+                                                    "value": "recordInfo"
+                                                },
+                                                {
+                                                    "children": [
+                                                        {
                                                             "name": "nameInData",
-                                                            "value": "type"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "recordType"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
+                                                            "value": "updated"
+                                                        },
+                                                        {
+                                                            "name": "repeatId",
+                                                            "value": "0"
+                                                        },
+                                                        {
+                                                            "children": [{
+                                                                "name": "nameInData",
+                                                                "value": "updatedBy"
+                                                            }],
+                                                            "name": "linkedPath"
+                                                        }
+                                                    ],
+                                                    "name": "linkedPath"
+                                                }
+                                            ],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "name": "nameInData",
+                                                    "value": "recordInfo"
+                                                },
+                                                {
+                                                    "children": [
+                                                        {
                                                             "name": "nameInData",
-                                                            "value": "createdBy"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "12345"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
+                                                            "value": "updated"
+                                                        },
+                                                        {
+                                                            "name": "repeatId",
+                                                            "value": "2"
+                                                        },
+                                                        {
+                                                            "children": [{
+                                                                "name": "nameInData",
+                                                                "value": "updatedBy"
+                                                            }],
+                                                            "name": "linkedPath"
+                                                        }
+                                                    ],
+                                                    "name": "linkedPath"
+                                                }
+                                            ],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "name": "nameInData",
+                                                    "value": "recordInfo"
+                                                },
+                                                {
+                                                    "children": [
+                                                        {
                                                             "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOne"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
+                                                            "value": "updated"
+                                                        },
+                                                        {
+                                                            "name": "repeatId",
+                                                            "value": "3"
+                                                        },
+                                                        {
+                                                            "children": [{
                                                                 "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "user"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "2"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "user"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "3"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "user"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "12345"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "presentationViewId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserOutputPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "presentationFormId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "newMetadataId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserNewGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "newPresentationFormId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserNewPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "menuPresentationViewId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserMenuPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "listPresentationViewId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserListPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "textId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "textSystemOne"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "defTextId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "textSystemOne"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserDefText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "search"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
+                                                                "value": "updatedBy"
+                                                            }],
+                                                            "name": "linkedPath"
+                                                        }
+                                                    ],
+                                                    "name": "linkedPath"
+                                                }
+                                            ],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "12345"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "presentationViewId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "presentationGroup"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserOutputPGroup"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "presentationFormId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "presentationGroup"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserPGroup"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "newMetadataId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "metadataGroup"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserNewGroup"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "newPresentationFormId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "presentationGroup"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserNewPGroup"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "menuPresentationViewId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "presentationGroup"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserMenuPGroup"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "listPresentationViewId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "presentationGroup"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserListPGroup"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "textId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "textSystemOne"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserText"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
+                                                "value": "defTextId"
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "textSystemOne"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserDefText"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "recordType"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUser"
+                                        },
+                                        {
+                                            "children": [{
+                                                "name": "nameInData",
                                                 "value": "search"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOneUserSearch"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "systemOneUser"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "metadataId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "parentId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "authority"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "type"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "recordType"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "createdBy"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "12345"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOne"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "user"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "1"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "user"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "12345"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "presentationViewId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personOutputPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "presentationFormId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "newMetadataId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personNewGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "newPresentationFormId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personNewPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "menuPresentationViewId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personMenuPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "listPresentationViewId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "textId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "defTextId"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personDefText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "person"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "search"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "search"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personSearch"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "person"
-                }
-            ],
+                                            }],
+                                            "name": "linkedPath"
+                                        }
+                                    ],
+                                    "name": "from"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "search"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemOneUserSearch"
+                                        }
+                                    ],
+                                    "name": "to"
+                                }
+                            ],
+                            "name": "recordToRecordLink"
+                        }
+                    ],
+                    "name": "collectedDataLinks"
+                }],
+                "name": "systemOneUser"
+            }],
             "name": "recordType"
         },
         {
@@ -29711,619 +28725,6 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "personOutputPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOne"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personOutputPGroup"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "presentationOf"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personOutputPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "childReferences"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "childReference"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "1"
-                                                            },
-                                                            {
-                                                                "children": [
-                                                                    {
-                                                                        "name": "nameInData",
-                                                                        "value": "refGroup"
-                                                                    },
-                                                                    {
-                                                                        "name": "repeatId",
-                                                                        "value": "0"
-                                                                    },
-                                                                    {
-                                                                        "children": [
-                                                                            {
-                                                                                "name": "nameInData",
-                                                                                "value": "ref"
-                                                                            },
-                                                                            {
-                                                                                "children": [{
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "attributeName",
-                                                                                            "value": "type"
-                                                                                        },
-                                                                                        {
-                                                                                            "name": "attributeValue",
-                                                                                            "value": "text"
-                                                                                        }
-                                                                                    ],
-                                                                                    "name": "attribute"
-                                                                                }],
-                                                                                "name": "attributes"
-                                                                            }
-                                                                        ],
-                                                                        "name": "linkedPath"
-                                                                    }
-                                                                ],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "recordInfoSystemOneGroupText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "personOutputPGroup"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "type"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "presentationGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "createdBy"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "12345"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOne"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "user"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "presentationOf"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "childReferences"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "childReference"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "2"
-                                                            },
-                                                            {
-                                                                "children": [
-                                                                    {
-                                                                        "name": "nameInData",
-                                                                        "value": "refGroup"
-                                                                    },
-                                                                    {
-                                                                        "name": "repeatId",
-                                                                        "value": "0"
-                                                                    },
-                                                                    {
-                                                                        "children": [
-                                                                            {
-                                                                                "name": "nameInData",
-                                                                                "value": "ref"
-                                                                            },
-                                                                            {
-                                                                                "children": [{
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "attributeName",
-                                                                                            "value": "type"
-                                                                                        },
-                                                                                        {
-                                                                                            "name": "attributeValue",
-                                                                                            "value": "presentation"
-                                                                                        }
-                                                                                    ],
-                                                                                    "name": "attribute"
-                                                                                }],
-                                                                                "name": "attributes"
-                                                                            }
-                                                                        ],
-                                                                        "name": "linkedPath"
-                                                                    }
-                                                                ],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "recordInfoListPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personListPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "childReferences"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "childReference"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "1"
-                                                            },
-                                                            {
-                                                                "children": [
-                                                                    {
-                                                                        "name": "nameInData",
-                                                                        "value": "refGroup"
-                                                                    },
-                                                                    {
-                                                                        "name": "repeatId",
-                                                                        "value": "0"
-                                                                    },
-                                                                    {
-                                                                        "children": [
-                                                                            {
-                                                                                "name": "nameInData",
-                                                                                "value": "ref"
-                                                                            },
-                                                                            {
-                                                                                "children": [{
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "attributeName",
-                                                                                            "value": "type"
-                                                                                        },
-                                                                                        {
-                                                                                            "name": "attributeValue",
-                                                                                            "value": "presentation"
-                                                                                        }
-                                                                                    ],
-                                                                                    "name": "attribute"
-                                                                                }],
-                                                                                "name": "attributes"
-                                                                            }
-                                                                        ],
-                                                                        "name": "linkedPath"
-                                                                    }
-                                                                ],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "namePersonAuthorizedValueOuputPGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "personListPGroup"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
                                                 "value": "systemOneUserRoleRulePartPGroup"
                                             },
                                             {
@@ -31287,190 +29688,6 @@
                         "name": "collectedDataLinks"
                     }],
                     "name": "bookToKeepForUploadExamplePGroup"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "systemOne"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personPGroup"
-                                            },
-                                            {
-                                                "children": [{
-                                                    "name": "nameInData",
-                                                    "value": "presentationOf"
-                                                }],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "metadataGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personGroup"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "presentationGroup"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "personPGroup"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "childReferences"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "childReference"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [
-                                                                    {
-                                                                        "name": "nameInData",
-                                                                        "value": "refGroup"
-                                                                    },
-                                                                    {
-                                                                        "name": "repeatId",
-                                                                        "value": "0"
-                                                                    },
-                                                                    {
-                                                                        "children": [
-                                                                            {
-                                                                                "name": "nameInData",
-                                                                                "value": "ref"
-                                                                            },
-                                                                            {
-                                                                                "children": [{
-                                                                                    "children": [
-                                                                                        {
-                                                                                            "name": "attributeName",
-                                                                                            "value": "type"
-                                                                                        },
-                                                                                        {
-                                                                                            "name": "attributeValue",
-                                                                                            "value": "text"
-                                                                                        }
-                                                                                    ],
-                                                                                    "name": "attribute"
-                                                                                }],
-                                                                                "name": "attributes"
-                                                                            }
-                                                                        ],
-                                                                        "name": "linkedPath"
-                                                                    }
-                                                                ],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "recordInfoSystemOneGroupText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "personPGroup"
                 },
                 {
                     "children": [{
