@@ -23,7 +23,7 @@
 	<parent>
 		<groupId>se.uu.ub.cora</groupId>
 		<artifactId>cora-parent</artifactId>
-		<version>0.8.6</version>
+		<version>1.3.0</version>
 	</parent>
 
 	<artifactId>systemone-metadata</artifactId>
