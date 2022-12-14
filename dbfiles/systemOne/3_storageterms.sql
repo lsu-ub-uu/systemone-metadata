@@ -1,1 +1,1 @@
-COPY public.storageterm (id, recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
+COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
