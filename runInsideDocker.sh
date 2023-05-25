@@ -44,7 +44,7 @@ runExport(){
 exportLinks(){
 	local dataDivider=$1
 	local file="/"$baseDir"/"$dataDivider"/2_links.sql"
-	local sql="select l.* from link l join record r on l.fromtype = r.\"type\"  and l.fromid = r.id where datadivider = '"$dataDivider"' order by fromtype, fromid"
+	local sql="select l.* from link l join record r on l.fromtype = r.\"type\"  and l.fromid = r.id where datadivider = '"$dataDivider"' order by fromtype, fromid, totype, toid"
 
 	echo "COPY public.link (fromtype, fromid, totype, toid) FROM stdin;" > $file
 	runExport "$sql" "$file"
