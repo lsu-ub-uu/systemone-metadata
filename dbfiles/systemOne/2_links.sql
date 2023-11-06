@@ -166,7 +166,6 @@ presentation	demoOutputPGroup	presentation	recordInfoOutputPGroup
 presentation	demoOutputPGroup	presentation	urlTextVarAsLinkOutputPVar
 presentation	demoOutputPGroup	recordType	presentation
 presentation	demoOutputPGroup	system	systemOne
-presentation	demoOutputPGroup	text	demoText
 presentation	demoOutputPGroup	user	141414
 presentation	demoOutputPGroup	validationType	presentationGroup
 presentation	demoPGroup	guiElement	demoTestLinkGuiElement
@@ -178,7 +177,6 @@ presentation	demoPGroup	presentation	recordInfoPGroup
 presentation	demoPGroup	presentation	urlTextVarPVar
 presentation	demoPGroup	recordType	presentation
 presentation	demoPGroup	system	systemOne
-presentation	demoPGroup	text	demoText
 presentation	demoPGroup	user	141414
 presentation	demoPGroup	validationType	presentationGroup
 presentation	keepThisNumberOutputPNumVar	metadata	keepThisNumberVar
