@@ -172,6 +172,7 @@ presentation	demoPGroup	guiElement	demoTestLinkGuiElement
 presentation	demoPGroup	metadata	demoGroup
 presentation	demoPGroup	presentation	bookCoverPLink
 presentation	demoPGroup	presentation	bookTitleTextVarPVar
+presentation	demoPGroup	presentation	exampleMetadataOutputPVar
 presentation	demoPGroup	presentation	keepThisPNumVar
 presentation	demoPGroup	presentation	recordInfoPGroup
 presentation	demoPGroup	presentation	urlTextVarPVar
