@@ -211,6 +211,8 @@ presentation	systemOneUserTypePCollVar	user	141414
 presentation	systemOneUserTypePCollVar	validationType	presentationCollectionVar
 system	systemOne	recordType	system
 system	systemOne	system	systemOne
+system	systemOne	text	systemOneDefText
+system	systemOne	text	systemOneText
 system	systemOne	user	12345
 system	systemOne	user	141414
 system	systemOne	validationType	system
