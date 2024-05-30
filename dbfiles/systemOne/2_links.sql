@@ -7,6 +7,8 @@ demo	asdf	recordType	demo
 demo	asdf	system	systemOne
 demo	asdf	user	141414
 demo	asdf	validationType	demo
+login	systemOneLoginPassword	metadata	viewDefinitionPasswordGroup
+login	systemOneLoginPassword	presentation	viewDefinitionPasswordPGroup
 login	systemOneLoginPassword	recordType	login
 login	systemOneLoginPassword	system	systemOne
 login	systemOneLoginPassword	user	141414
@@ -20,12 +22,6 @@ login	uuSystemOnewr	recordType	login
 login	uuSystemOnewr	system	systemOne
 login	uuSystemOnewr	user	141414
 login	uuSystemOnewr	validationType	loginWebRedirect
-loginUnit	uuSystemOneLDAPLoginUnit	login	uppsalaLDAP
-loginUnit	uuSystemOneLDAPLoginUnit	recordType	loginUnit
-loginUnit	uuSystemOneLDAPLoginUnit	system	systemOne
-loginUnit	uuSystemOneLDAPLoginUnit	text	uuSystemOneLDAPLoginUnitText
-loginUnit	uuSystemOneLDAPLoginUnit	user	141414
-loginUnit	uuSystemOneLDAPLoginUnit	validationType	loginUnit
 loginUnit	uuSystemOneLoginUnit	login	uuSystemOnewr
 loginUnit	uuSystemOneLoginUnit	recordType	loginUnit
 loginUnit	uuSystemOneLoginUnit	system	systemOne
