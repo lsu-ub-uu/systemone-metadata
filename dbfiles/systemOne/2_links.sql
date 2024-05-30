@@ -7,6 +7,10 @@ demo	asdf	recordType	demo
 demo	asdf	system	systemOne
 demo	asdf	user	141414
 demo	asdf	validationType	demo
+login	systemOneLoginPassword	recordType	login
+login	systemOneLoginPassword	system	systemOne
+login	systemOneLoginPassword	user	141414
+login	systemOneLoginPassword	validationType	loginPassword
 login	systemOneTokenLogin	recordType	login
 login	systemOneTokenLogin	system	systemOne
 login	systemOneTokenLogin	user	12345
