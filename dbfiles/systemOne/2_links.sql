@@ -28,6 +28,12 @@ loginUnit	uuSystemOneLoginUnit	system	systemOne
 loginUnit	uuSystemOneLoginUnit	text	uuSystemOneLoginUnitText
 loginUnit	uuSystemOneLoginUnit	user	141414
 loginUnit	uuSystemOneLoginUnit	validationType	loginUnit
+loginUnit	uuSystemOnePasswordLoginUnit	login	systemOneLoginPassword
+loginUnit	uuSystemOnePasswordLoginUnit	recordType	loginUnit
+loginUnit	uuSystemOnePasswordLoginUnit	system	systemOne
+loginUnit	uuSystemOnePasswordLoginUnit	text	uuSystemOnePasswordLoginUnitText
+loginUnit	uuSystemOnePasswordLoginUnit	user	141414
+loginUnit	uuSystemOnePasswordLoginUnit	validationType	loginUnit
 metadata	authorItem	recordType	metadata
 metadata	authorItem	system	systemOne
 metadata	authorItem	text	authorItemDefText
@@ -348,6 +354,10 @@ text	uuSystemOneLoginUnitText	recordType	text
 text	uuSystemOneLoginUnitText	system	systemOne
 text	uuSystemOneLoginUnitText	user	141414
 text	uuSystemOneLoginUnitText	validationType	coraText
+text	uuSystemOnePasswordLoginUnitText	recordType	text
+text	uuSystemOnePasswordLoginUnitText	system	systemOne
+text	uuSystemOnePasswordLoginUnitText	user	141414
+text	uuSystemOnePasswordLoginUnitText	validationType	coraText
 user	coraUser:15697099230192	collectTerm	permissionUnitPermissionTerm
 user	coraUser:15697099230192	collectTerm	systemPermissionTerm
 user	coraUser:15697099230192	permissionRole	binaryUserRole
