@@ -237,6 +237,14 @@ text	bookCoverText	system	systemOne
 text	bookCoverText	user	12345
 text	bookCoverText	user	141414
 text	bookCoverText	validationType	coraText
+text	bookGroupDefText	recordType	text
+text	bookGroupDefText	system	systemOne
+text	bookGroupDefText	user	141414
+text	bookGroupDefText	validationType	coraText
+text	bookGroupText	recordType	text
+text	bookGroupText	system	systemOne
+text	bookGroupText	user	141414
+text	bookGroupText	validationType	coraText
 text	bookRelatedPersonAuthorLinkDefText	recordType	text
 text	bookRelatedPersonAuthorLinkDefText	system	systemOne
 text	bookRelatedPersonAuthorLinkDefText	user	12345
