@@ -384,6 +384,7 @@ user	coraUser:196015452870546	permissionRole	metadataAdmin
 user	coraUser:196015452870546	permissionRole	systemConfigurator
 user	coraUser:196015452870546	permissionRole	systemOneSystemUserRole
 user	coraUser:196015452870546	permissionRole	userAdminRole
+user	coraUser:196015452870546	permissionUnit	permissionUnit001
 user	coraUser:196015452870546	recordType	user
 user	coraUser:196015452870546	system	systemOne
 user	coraUser:196015452870546	user	141414
