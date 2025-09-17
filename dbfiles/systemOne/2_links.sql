@@ -100,7 +100,7 @@ metadata	dataDividerSystemOneLink	recordType	metadata
 metadata	dataDividerSystemOneLink	recordType	system
 metadata	dataDividerSystemOneLink	system	systemOne
 metadata	dataDividerSystemOneLink	text	dataDividerSystemOneLinkDefText
-metadata	dataDividerSystemOneLink	text	dataDividerSystemOneLinkText
+metadata	dataDividerSystemOneLink	text	dataDividerText
 metadata	dataDividerSystemOneLink	user	12345
 metadata	dataDividerSystemOneLink	user	141414
 metadata	dataDividerSystemOneLink	validationType	metadataRecordLink
@@ -329,11 +329,6 @@ text	dataDividerSystemOneLinkDefText	system	systemOne
 text	dataDividerSystemOneLinkDefText	user	12345
 text	dataDividerSystemOneLinkDefText	user	141414
 text	dataDividerSystemOneLinkDefText	validationType	coraText
-text	dataDividerSystemOneLinkText	recordType	text
-text	dataDividerSystemOneLinkText	system	systemOne
-text	dataDividerSystemOneLinkText	user	12345
-text	dataDividerSystemOneLinkText	user	141414
-text	dataDividerSystemOneLinkText	validationType	coraText
 text	demoGroupDefText	recordType	text
 text	demoGroupDefText	system	systemOne
 text	demoGroupDefText	user	141414
