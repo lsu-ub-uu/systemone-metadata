@@ -391,11 +391,6 @@ text	suystemOneUserTypeCollectionVarText	recordType	text
 text	suystemOneUserTypeCollectionVarText	system	systemOne
 text	suystemOneUserTypeCollectionVarText	user	141414
 text	suystemOneUserTypeCollectionVarText	validationType	coraText
-text	urlTextVarDefText	recordType	text
-text	urlTextVarDefText	system	systemOne
-text	urlTextVarDefText	user	12345
-text	urlTextVarDefText	user	141414
-text	urlTextVarDefText	validationType	coraText
 text	uuSystemOneLDAPLoginUnitText	recordType	text
 text	uuSystemOneLDAPLoginUnitText	system	systemOne
 text	uuSystemOneLDAPLoginUnitText	user	141414
