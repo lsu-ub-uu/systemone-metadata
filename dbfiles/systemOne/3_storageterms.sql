@@ -6,6 +6,5 @@ user	coraUser:8239436126036	userLoginIdStorageTerm	stand516@user.uu.se	loginId
 user	user:11385927333713116	userLoginIdStorageTerm	palra847@user.uu.se	loginId
 user	user:11385961546081631	userLoginIdStorageTerm	andma210@user.uu.se	loginId
 user	user:13641514994783267	userLoginIdStorageTerm	marvi707@user.uu.se	loginId
-user	user:13641636507033579	userLoginIdStorageTerm	evaag112@user.uu.se	loginId
 user	user:13641673157161404	userLoginIdStorageTerm	sarto903@user.uu.se	loginId
 user	user:13641982216972183	userLoginIdStorageTerm	egisw290@user.uu.se	loginId

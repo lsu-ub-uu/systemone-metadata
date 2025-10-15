@@ -480,17 +480,6 @@ user	user:13641514994783267	recordType	user
 user	user:13641514994783267	system	systemOne
 user	user:13641514994783267	user	141414
 user	user:13641514994783267	validationType	coraUser
-user	user:13641636507033579	collectTerm	permissionUnitPermissionTerm
-user	user:13641636507033579	collectTerm	systemPermissionTerm
-user	user:13641636507033579	permissionRole	binaryUserRole
-user	user:13641636507033579	permissionRole	metadataAdmin
-user	user:13641636507033579	permissionRole	systemConfigurator
-user	user:13641636507033579	permissionRole	systemOneSystemUserRole
-user	user:13641636507033579	permissionRole	userAdminRole
-user	user:13641636507033579	recordType	user
-user	user:13641636507033579	system	systemOne
-user	user:13641636507033579	user	141414
-user	user:13641636507033579	validationType	coraUser
 user	user:13641673157161404	collectTerm	permissionUnitPermissionTerm
 user	user:13641673157161404	collectTerm	systemPermissionTerm
 user	user:13641673157161404	permissionRole	binaryUserRole
