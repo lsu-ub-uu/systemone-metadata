@@ -1,11 +1,4 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-binary	1	demo	asdf
-binary	1	recordType	binary
-binary	1	system	systemOne
-binary	1	user	141414
-binary	1	user	binaryConverter
-binary	1	validationType	genericBinary
-demo	asdf	binary	1
 demo	asdf	recordType	demo
 demo	asdf	system	systemOne
 demo	asdf	user	141414
